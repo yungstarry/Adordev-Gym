@@ -17,7 +17,7 @@ function PricingBox({ img, price }) {
           {/* price */}
           <p className="text-center text-[55px] font-bold relative py-[10px] ">
             <span className="text-[30px] text-[#6d6d6d] absolute font-normal top-8 -left-[3rem]">
-              NGN
+              $
             </span>
             {price}
             <span className="text-[22px] text-[#6d6d6d] absolute font-normal bottom-[25px] -right-[6rem]">
